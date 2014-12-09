@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Matlab
+Comment=Run Matlab desktop
+Exec=matlab -desktop&
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;IDE
