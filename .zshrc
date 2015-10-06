@@ -86,7 +86,7 @@ alias sub='sublime_text'
 alias sublime='sublime_text &'
 alias chrome='google-chrome &'
 alias mendeley='mendeleydesktop &'
-#alias matlab='/opt/matlab2013b/bin/matlab'
+alias matlab2015='/opt/matlab2015b/bin/matlab'
 #alias ls-dyna-d='ls-dynaR5'
 alias paraview='./bin/paraview &'
 
@@ -117,7 +117,8 @@ alias md='mkdir'
 alias p='cd -'
 alias rd='rmdir'
 #alias rm='rm -i'   
-
-alias reconfigurevmware='sudo vmware-modconfig --console --install-all'
-
+alias clc='clear'
+alias reconfigurevmware='sudo /usr/bin/vmware-modconfig --console --install-all'
 alias gitclean='git rm $(git ls-files --deleted)'
+
+alias git=hub
