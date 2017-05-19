@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sublime Text 3
+Comment=Run sublime text 3
+Exec=sublime3
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;Accessories;Programming;

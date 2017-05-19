@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Sublime Text 2
-Comment=Open Sublime Text 2
-Exec=sublime_text
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=Development;IDE
