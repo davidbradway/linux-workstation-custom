@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Matlab
-Comment=Run Matlab desktop
+Name=Matlab2019a
+Comment=Run Matlab 2019a desktop
 Exec=matlab2019a -desktop&
 Terminal=false
 Type=Application
