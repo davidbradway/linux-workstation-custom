@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Matlab
-Comment=Run Matlab desktop
-Exec=matlab2019a -desktop&
+Name=Matlab2020b
+Comment=Run Matlab 2020b desktop
+Exec=matlab -desktop&
 Terminal=false
 Type=Application
 StartupNotify=true

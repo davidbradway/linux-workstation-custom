@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Matlab2019a
-Comment=Run Matlab 2019a desktop
-Exec=matlab2019a -desktop&
-Terminal=false
-Type=Application
-StartupNotify=true
-Categories=Development;IDE
